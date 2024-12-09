@@ -37,7 +37,7 @@ The dataset includes customer information such as:
   - **Cluster 4**: High-income customers with low spending (price-sensitive or savings-focused).
   - **Cluster 5**: Medium-income customers with high spending (value-driven customers).
 
-![Customer Groups](images/customer_groups.png)  
+![Customer Groups](images/customer_groups.png)
 *Visualization of customer clusters and their centroids.*
 
 ## Technologies Used
@@ -52,7 +52,7 @@ The dataset includes customer information such as:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/customer-segmentation-kmeans.git
+   git clone https://github.com/KaifArman/customer-segmentation-kmeans.git
    ```
 2. Install the required libraries:
    ```bash
