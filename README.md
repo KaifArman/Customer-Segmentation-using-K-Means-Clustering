@@ -37,9 +37,6 @@ The dataset includes customer information such as:
   - **Cluster 4**: High-income customers with low spending (price-sensitive or savings-focused).
   - **Cluster 5**: Medium-income customers with high spending (value-driven customers).
 
-![Customer Groups](images/customer_groups.png)
-*Visualization of customer clusters and their centroids.*
-
 ## Technologies Used
 
 - **Python**: Programming language
