@@ -39,15 +39,19 @@ The dataset used in this project includes customer information with the followin
 
 ## Results
 
-The customers were grouped into 5 distinct clusters, with the following key insights:
+**The customers were grouped into 5 distinct clusters, with the following key insights:**
 
-- **Cluster 1**: Medium-income customers with moderate spending.
-- **Cluster 2**: High-income customers with high spending (potential premium customers).
-- **Cluster 3**: Low-income customers with low spending (budget-conscious customers).
-- **Cluster 4**: High-income customers with low spending (price-sensitive or savings-focused).
-- **Cluster 5**: Medium-income customers with high spending (value-driven customers).
+Cluster 1: Medium-income customers with moderate spending.
 
-These clusters provide a foundation for businesses to personalize marketing strategies, identify premium customers, target value-driven groups, and tailor promotions to specific customer segments.
+Cluster 2: High-income customers with high spending (potential premium customers).
+
+Cluster 3: Low-income customers with high spending (budget-conscious but willing to spend on certain items).
+
+Cluster 4: High-income customers with low spending (price-sensitive or savings-focused).
+
+Cluster 5: Low-income customers with low spending (budget-conscious customers).
+
+*These clusters provide a foundation for businesses to personalize marketing strategies, identify premium customers, target value-driven groups, and tailor promotions to specific customer segments.*
 
 ## Technologies Used
 
